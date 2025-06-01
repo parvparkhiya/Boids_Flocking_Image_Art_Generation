@@ -46,7 +46,7 @@ The simulation uses NumPy for efficient array operations and Matplotlib for visu
 
 ## Usage
 
-```python
+```bash
 python boids_flocking.py
 ```
 
