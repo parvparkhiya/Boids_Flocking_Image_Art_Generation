@@ -2,7 +2,7 @@
 
 A Python implementation of Craig Reynolds' Boids algorithm applied to color evolution. This project visualizes how colors can exhibit flocking behavior similar to birds or fish, creating dynamic and organic color patterns.
 
-![Color Flocking Simulation](screenshot.png)
+![Color Flocking Simulation](Screenshot.png)
 
 ## Setup
 
