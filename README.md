@@ -52,28 +52,6 @@ python boids_flocking.py
 
 Use the sliders to adjust the flocking parameters in real-time and observe how they affect the color patterns.
 
-## Dependencies
-
-- Python 3.9+
-- NumPy
-- Matplotlib
-
-## Environment Setup
-
-The project uses conda for environment management. The `environment.yml` file includes:
-
-```yaml
-name: boids_art
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.9
-  - numpy
-  - matplotlib
-  - ipykernel
-```
-
 ## Credits
 
 This implementation was inspired by the JavaScript version created by Jeremy Muller:
